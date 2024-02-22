@@ -1,1 +1,1 @@
-#jumping right into mod 3; post exam.
+#jumping right into mod 3; post exam.#prompt the user for a string and count the number of vowels in the stringusr_str = input("Throw me some data mf...hungry for pretty much any word\n")slicer = [char for char in usr_str]print(slicer)
